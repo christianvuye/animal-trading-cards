@@ -10,7 +10,7 @@
 .animal-name {
     /*border: 1px solid #ccc;*/    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
     padding: 10px;
-    text-align: center;
+    text-align: left;
     font-weight: bold;
 }
 
