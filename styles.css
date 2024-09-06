@@ -1,57 +1,57 @@
 .card {
-    width: 320px; 
-    border: 1px solid #ccc;
-    padding: 10px; 
-    margin: 20px auto; 
-    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
+  width: 320px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 20px auto;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
 }
 
 .animal-name {
-    border: 1px solid #FFFFFF;    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
-    padding: 10px;
-    text-align: left;
-    font-weight: bold;
+  /*border: 1px solid #ccc;*/ /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
+  padding: 10px;
+  text-align: left;
+  font-weight: bold;
 }
 
 .animal-image {
-    width: 300px;
-    height: auto;
-    display: block;
-    margin: 10px auto;
-    border: 1px solid #FFFFFF;    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
-    padding: 1px;
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border: 1px solid #ffffff; /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
+  padding: 1px;
 }
 
 .animal-details {
-    width: 300px; 
-    height: auto;
-    border: 1px solid #ccc;
-    margin: 10px auto;
-    padding: 1px;
+  width: 300px;
+  height: auto;
+  border: 1px solid #ccc;
+  margin: 10px auto;
+  padding: 1px;
 }
 
 .animal-fact {
-    font-style: italic;
-    margin: 10px 0;
-    padding: 10px;
+  font-style: italic;
+  margin: 10px 0;
+  padding: 10px;
 }
 
 .animal-info-list {
-    list-style-type: none;
-    margin: 10px 0; 
-    padding: 10px;
+  list-style-type: none;
+  margin: 10px 0;
+  padding: 10px;
 }
 
 .animal-info-list li {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .label {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .animal-description {
-    padding: 10px;
-    margin: 10px 0;
+  padding: 10px;
+  margin: 10px 0;
 }
