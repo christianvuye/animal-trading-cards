@@ -8,7 +8,7 @@
 }
 
 .animal-name {
-    /*border: 1px solid #ccc;*/    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
+    border: 1px solid #FFFFFF;    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
     padding: 10px;
     text-align: left;
     font-weight: bold;
@@ -19,12 +19,16 @@
     height: auto;
     display: block;
     margin: 10px auto;
-    /*border: 1px solid #ccc;*/    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
-    padding: 5px;
+    border: 1px solid #FFFFFF;    /* Unsure about the border, as text requirements mention a border but I do not see any border in the design prototype. */
+    padding: 1px;
 }
 
 .animal-details {
+    width: 300px; 
+    height: auto;
     border: 1px solid #ccc;
+    margin: 10px auto;
+    padding: 1px;
 }
 
 .animal-fact {
