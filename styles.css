@@ -23,6 +23,10 @@
     padding: 5px;
 }
 
+.animal-details {
+    border: 1px solid #ccc;
+}
+
 .animal-fact {
     font-style: italic;
     margin: 10px 0;
