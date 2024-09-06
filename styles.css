@@ -35,8 +35,8 @@
 
 .animal-info-list {
     list-style-type: none;
-    padding-left: 0;
-    margin: 10px 0;
+    margin: 10px 0; 
+    padding: 10px;
 }
 
 .animal-info-list li {
